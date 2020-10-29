@@ -140,8 +140,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           
           <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">traverse remix (click on image)</span></h2>
           <a href="https://rubenbravolugo.github.io/AXScratchtraverse.github.io/">
-        <img src="https://coddyschool.com/upload/iblock/a45/scratch_min.png" height="233" width="233"> </a>
+        <img src="https://scratch.mit.edu/images/scratch-og.png" height="233" width="233"> </a>
 
         <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">costum scratch game (click on image)</span></h2>
           <a href="https://rubenbravolugo.github.io/AXcostumescratchgame.github.io/">
-        <img src="https://coddyschool.com/upload/iblock/a45/scratch_min.png" height="233" width="233"> </a>
+        <img src="https://images.squarespace-cdn.com/content/v1/59371b611e5b6cbaaa211ff9/1527791173130-KCQZU6G7NB20K4UBCLX4/ke17ZwdGBToddI8pDm48kKSDVuAPrHKRkrADOUWKIBFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIxjnc1DkxrOcGd5VMooSjQcLMerRA6Kw82eiRHVey0pQ/Scratch+Cat+with+Backpack" height="233" width="233"> </a>
