@@ -143,5 +143,5 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <img src="https://coddyschool.com/upload/iblock/a45/scratch_min.png" height="233" width="233"> </a>
 
         <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">costum scratch game</span></h2>
-          <a href="https://rubenbravolugo.github.io/AXcircledrawing.github.io/">
+          <a href="https://rubenbravolugo.github.io/AXcostumescratchgame.github.io/">
         <img src="https://coddyschool.com/upload/iblock/a45/scratch_min.png" height="233" width="233"> </a>
