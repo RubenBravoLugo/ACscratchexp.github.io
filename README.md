@@ -131,17 +131,17 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           
 
-          <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Primary P5.js</span></h2>
+          <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Friction ball</span></h2>
 
           <a href="https://rubenbravolugo.github.io/ScrathEXP/">
         <img src="https://coddyschool.com/upload/iblock/a45/scratch_min.png" height="233" width="233"> </a>
 
 
           
-          <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">costum P5.js</span></h2>
-          <a href="https://rubenbravolugo.github.io/AXcircledrawing.github.io/">
+          <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">traverse remix</span></h2>
+          <a href="https://rubenbravolugo.github.io/AXScratchtraverse.github.io/">
         <img src="https://coddyschool.com/upload/iblock/a45/scratch_min.png" height="233" width="233"> </a>
 
-        <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">costum P5.js</span></h2>
+        <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">costum scratch game</span></h2>
           <a href="https://rubenbravolugo.github.io/AXcircledrawing.github.io/">
         <img src="https://coddyschool.com/upload/iblock/a45/scratch_min.png" height="233" width="233"> </a>
